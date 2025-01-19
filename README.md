@@ -1,2 +1,5 @@
-# Element-Finder
-This program allows users to explore the periodic table by searching for elements using various criteria (e.g., name, symbol). It maintains a list of recent searches and enables users to view detailed information about specific elements, making it a helpful tool for learning and reference
+-Features
+Search elements by name, symbol, or atomic number.
+View detailed information about each element.
+Keeps track of recent searches for quick access.
+User-friendly prompts with input validation.
