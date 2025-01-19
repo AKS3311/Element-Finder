@@ -75,5 +75,5 @@ Enter your choice (1 or 2): """
     def quit_app(self):
         """Exits the application."""
         self.help_functions.clear_screen()
-        print("Thank you for using the periodic table app. Goodbye!")
+        print("Thank you for using the periodic table program. Goodbye!")
         quit()
