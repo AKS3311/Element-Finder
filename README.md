@@ -1,3 +1,6 @@
+to run the program run main.py
+
+
 -Features
 Search elements by name, symbol, or atomic number.
 View detailed information about each element.
